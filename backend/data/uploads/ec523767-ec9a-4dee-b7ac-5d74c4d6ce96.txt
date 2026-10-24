@@ -1,0 +1,1 @@
+SovereignAI supports confidential workflow analysis and local retrieval for approvals.
